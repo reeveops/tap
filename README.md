@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/reeveops/reeve/master/docs/logo.svg" alt="reeve" width="120" height="120">
 </p>
 
-# reeveops / tap
+# ReeveOps / tap
 
 Homebrew tap for [reeve](https://github.com/reeveops/reeve) — the PR-native,
 self-hosted GitOps orchestrator for Pulumi, Terraform, and OpenTofu.
